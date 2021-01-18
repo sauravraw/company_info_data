@@ -1,0 +1,157 @@
+{
+	"contentstack": {
+		"header": {
+			"logo": {
+				"url": "https://images.contentstack.io/v3/assets/bltc5a09bf374882538/blt8dc4dd93cd29ae05/5f1a2be13986577a2d5f6736/Contentstack-full-logo-white_800x133.png"
+			}
+		},
+		"main": [
+			{
+				"banner_section": {
+					"banner_header": "Finally, A Modern Content Management System",
+					"banner_content": "Contentstack brings business and technology teams together to deliver personalized, omnichannel digital experiences.",
+					"banner_image": {
+						"url": "https://images.contentstack.io/v3/assets/bltc5a09bf374882538/blt0eac3686a06a4a3f/5f1a2be2ecbff322d09554d6/hero-carousel-1.jpg"
+					},
+					"primary_cta": {
+						"text": "Try for Free",
+						"link": "/try-for-free/"
+					},
+					"secondary_cta": {
+						"text": "Request a Demo",
+						"link": "/request-demo/"
+					}
+				}
+			},
+			{
+				"cta-section": {
+					"header": "TRY IT TO BELIEVE IT",
+					"url": "https://images.contentstack.io/v3/assets/bltc5a09bf374882538/blta8ec620b53524f45/5f1a2bd31db8ad781814787d/download.jpg",
+					"primary_cta": {
+						"text": "Request a Demo",
+						"link": "/request-demo"
+					},
+					"secondary_cta": {
+						"text": "Try For Free",
+						"link": "/try-for-free"
+					}
+				}
+			}
+		],
+		"footer": [
+			{
+				"footer_logo": "https://images.contentstack.io/v3/assets/bltc5a09bf374882538/blt954cedac0397edba/5f1a2be1d0350a5e2a2fde71/contentstack-footer-logo.png",
+				"social_links": [
+					{
+						"link": "https://twitter.com/contentstack"
+					},
+					{
+						"link": "https://www.linkedin.com/company/contentstack"
+					},
+					{
+						"link": "https://www.facebook.com/contentstack"
+					},
+					{
+						"link": "https://www.youtube.com/contentstack"
+					},
+					{
+						"link": "https://github.com/contentstack"
+					}
+				],
+				"footer_links": [
+					{
+						"title": "Product",
+						"productLinks": [
+							{
+								"link": "/features/"
+							},
+							{
+								"link": "/business-cms/"
+							},
+							{
+								"link": "/developers-cms/"
+							},
+							{
+								"link": "/integrations/"
+							},
+							{
+								"link": "/roi-calculator/"
+							},
+							{
+								"link": "/pricing/"
+							},
+							{
+								"link": "/customer-success"
+							}
+						]
+					},
+					{
+						"title": "Users",
+						"usersLinks": [
+							{
+								"link": "/docs/developers/#development-resources-and-sdks"
+							},
+							{
+								"link": "/faqs/"
+							},
+							{
+								"link": "/trust/"
+							},
+							{
+								"link": "https://status.contentstack.com/"
+							}
+						]
+					},
+					{
+						"title": "Education",
+						"educationLinks": [
+							{
+								"title": "Customer Resources"
+							},
+							{
+								"title": "CMS Guides"
+							},
+							{
+								"title": "Blog"
+							},
+							{
+								"title": "Docs"
+							}
+						]
+					},
+					{
+						"title": "Comapny",
+						"companyLinks": [
+							{
+								"link": "/about/"
+							},
+							{
+								"link": "/company/news/"
+							},
+							{
+								"link": "/company/press/"
+							},
+							{
+								"link": "/company/careers/"
+							},
+							{
+								"link": "/partners/become-a-partner/"
+							},
+							{
+								"link": "/company/contact-us/"
+							}
+						]
+					}
+				],
+				"bottom_links": [
+					{
+						"link": "/terms-of-service"
+					},
+					{
+						"link": "/privacy"
+					}
+				]
+			}
+		]
+	}
+}
